@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-    double a[100],b[100],x,y;//修改
+    double a[100],b[100],x,y;//修改一下
     int n,i;
     cin>>n;
     cin>>a[1]>>b[1];
